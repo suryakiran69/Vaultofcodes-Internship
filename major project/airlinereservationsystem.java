@@ -84,7 +84,7 @@ class ReservationSystem {
     }
 }
 
-class test{
+class airlinereservationsystem{
     public static void main(String[] args) {
         ReservationSystem r = new ReservationSystem();
         r.addFlight(new Flight(203, "Chennai", "Vizag", 100, 100));
